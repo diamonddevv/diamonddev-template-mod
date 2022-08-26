@@ -1,8 +1,11 @@
-# Fabric Example Mod
+# DiamondDev Example Mod
+
+A template mod used by DiamondDev's mods, to save time.
 
 ## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+1. Create a fork of this as your own project.
+2. Clone and Import to an IDE of your choice.
 
 ## License
 
